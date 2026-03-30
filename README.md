@@ -18,3 +18,10 @@ Siin on minu teise päringu tulemused:
 Siin on minu kolmanda päringu tulemused:
 
 ![Teine päring](Tallinna%20kaupluse%20tehingud.jpg)
+
+---
+
+## Minu neljas päring
+Siin on minu neljanda päringu tulemused:
+
+![Teine päring](Tallinna kaupluse tehingud.jpg)
