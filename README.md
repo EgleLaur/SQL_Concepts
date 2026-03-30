@@ -24,4 +24,4 @@ Siin on minu kolmanda päringu tulemused:
 ## Minu neljas päring
 Siin on minu neljanda päringu tulemused:
 
-![Teine päring](Tehingute arv Tallinnas.jpg)
+![Teine päring](Tallinna kaupluse tehingud.jpg)
