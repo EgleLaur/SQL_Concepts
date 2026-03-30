@@ -1,4 +1,4 @@
 # SQL-Projekt
 Siin on minu esimese päringu tulemused Supabase'is:
 
-![Andmete tabel](Screenshot 2026-03-30 125851.jpg)
+![Andmete tabel](Screenshot%202026-03-30%20125851.jpg)
