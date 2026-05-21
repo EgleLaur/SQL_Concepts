@@ -1,4 +1,4 @@
-# SQL-Projekt
+# SQL-Concepts
 
 ## Esimene päring
 Siin on minu esimese päringu tulemused Supabase'is:
